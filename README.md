@@ -6,4 +6,5 @@ This is my code for a personal project. I have created a metronome using an Ardu
 Next steps for this project:
 
 - Add different time signature modes (4/4, 3/4, 6/8..etc)
+- Add a servo motor to act as the inverted pendulum rod of a mechanical metronome
 
